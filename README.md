@@ -20,3 +20,12 @@ Dans ce TP, j’ai transformé une page HTML statique en une page Symfony dynami
 
 Le formulaire est entièrement géré par Symfony et le rendu correspond au modèle fourni dans l’énoncé.
 
+# Aperçu du projet
+
+### Page produit avec formulaire
+
+![Page produit](screenshots/screen1.png)
+
+### Résultat de la soumission du formulaire
+
+![Page produit](screenshots/screen1.png)
