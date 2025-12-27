@@ -28,4 +28,4 @@ Le formulaire est entièrement géré par Symfony et le rendu correspond au mod�
 
 ### Résultat de la soumission du formulaire
 
-![Page produit](screenshots/screen1.png)
+![Page produit](screenshots/screen2.png)
